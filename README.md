@@ -3,4 +3,4 @@
 
 ![](https://img.shields.io/github/issues/SHIERTX/typecho-umi-admin?style=flat-square) ![](https://img.shields.io/github/stars/SHIERTX/typecho-umi-admin?style=flat-square) ![](https://img.shields.io/github/forks/SHIERTX/typecho-umi-admin?style=flat-square)
 
-[如何食用？](blog.shiertx.com/post-25.html)
+[如何食用？](//blog.shiertx.com/post-25.html)
